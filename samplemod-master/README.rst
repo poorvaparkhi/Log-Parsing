@@ -1,7 +1,5 @@
-ClearTax Coding Assignment
-============================
 
-This assignment is used to implement following two functionalities:
+This project is used to implement following two functionalities:
 a.	URL with the Top 5 highest throughput (highest number of times called) along with the frequency
 
 b.	Max, Min and average response times for each distinct api
